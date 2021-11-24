@@ -1,0 +1,47 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+    background: #e4e4f3;
+    font-family: 'Roboto', sans-serif;
+}
+
+.contenedor{
+    background-color: #fff;
+   /*
+    margin-top: 2%;
+    margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    */
+    margin:2% 10% 0 10%;
+    padding: 3%;
+}
+
+.text-center{
+    text-align: center;
+}
+.titulo{
+    font-size: 48px;
+    font-weight: bold;
+}
+.parrafo{
+    text-align: justify;
+    line-height: 1.5;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 2% 0 2% 0;
+}
+
+.imagen{
+    width: 100%;
+}
+
+footer{
+    background-color: #3266cb;
+    padding: 4%;
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+}
